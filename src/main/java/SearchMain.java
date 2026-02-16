@@ -1,6 +1,6 @@
 import search.SearchUtility;
 
-public class Main {
+public class SearchMain {
 
     public static void main(String[] args) {
         int[] array = new int[]{1,3,5,6,8,10,14,16,17};
